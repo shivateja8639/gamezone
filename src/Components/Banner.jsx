@@ -52,7 +52,6 @@ function Banner({ gameBannerList }) {
         <h2 className='text-[24px] text-white font-bold'>
           {currentGame.name}
         </h2>
-        <button className='bg-blue-700 text-white px-2 p-1'>Get Now</button>
       </div>
 
       <img
